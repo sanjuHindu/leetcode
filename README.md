@@ -28,19 +28,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sanjuHindu/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/sanjuHindu/leetcode/tree/master/0460-lfu-cache) |
 ## Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sanjuHindu/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/sanjuHindu/leetcode/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sanjuHindu/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sanjuHindu/leetcode/tree/master/0155-min-stack) |
+| [0460-lfu-cache](https://github.com/sanjuHindu/leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sanjuHindu/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/sanjuHindu/leetcode/tree/master/0460-lfu-cache) |
 ## Stack
 |  |
 | ------- |
