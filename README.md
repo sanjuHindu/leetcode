@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sanjuHindu/leetcode/tree/master/0503-next-greater-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sanjuHindu/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanjuHindu/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanjuHindu/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanjuHindu/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sanjuHindu/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sanjuHindu/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sanjuHindu/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sanjuHindu/leetcode/tree/master/0460-lfu-cache) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanjuHindu/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -132,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sanjuHindu/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanjuHindu/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanjuHindu/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
