@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanjuHindu/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/sanjuHindu/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sanjuHindu/leetcode/tree/master/0460-lfu-cache) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sanjuHindu/leetcode/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sanjuHindu/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanjuHindu/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sanjuHindu/leetcode/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sanjuHindu/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanjuHindu/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/sanjuHindu/leetcode/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sanjuHindu/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanjuHindu/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
@@ -118,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sanjuHindu/leetcode/tree/master/0100-same-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
