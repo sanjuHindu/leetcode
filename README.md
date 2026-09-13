@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanjuHindu/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/sanjuHindu/leetcode/tree/master/0134-gas-station) |
 | [0503-next-greater-element-ii](https://github.com/sanjuHindu/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0835-image-overlap](https://github.com/sanjuHindu/leetcode/tree/master/0835-image-overlap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sanjuHindu/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanjuHindu/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanjuHindu/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanjuHindu/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/sanjuHindu/leetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
