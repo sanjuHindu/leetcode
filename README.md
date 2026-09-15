@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/sanjuHindu/leetcode/tree/master/0134-gas-station) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sanjuHindu/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjuHindu/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/sanjuHindu/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/sanjuHindu/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjuHindu/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/sanjuHindu/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/sanjuHindu/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sanjuHindu/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjuHindu/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanjuHindu/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sanjuHindu/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjuHindu/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
