@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/sanjuHindu/leetcode/tree/master/0134-gas-station) |
 | [0503-next-greater-element-ii](https://github.com/sanjuHindu/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0835-image-overlap](https://github.com/sanjuHindu/leetcode/tree/master/0835-image-overlap) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjuHindu/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sanjuHindu/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanjuHindu/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanjuHindu/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjuHindu/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/sanjuHindu/leetcode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/sanjuHindu/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjuHindu/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjuHindu/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/sanjuHindu/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjuHindu/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sanjuHindu/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjuHindu/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sanjuHindu/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanjuHindu/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sanjuHindu/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjuHindu/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanjuHindu/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## DP on Trees
@@ -237,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/sanjuHindu/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanjuHindu/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sanjuHindu/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjuHindu/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
