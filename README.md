@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjuHindu/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanjuHindu/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/sanjuHindu/leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/sanjuHindu/leetcode/tree/master/0136-single-number) |
 | [0503-next-greater-element-ii](https://github.com/sanjuHindu/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0835-image-overlap](https://github.com/sanjuHindu/leetcode/tree/master/0835-image-overlap) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjuHindu/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sanjuHindu/leetcode/tree/master/0136-single-number) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sanjuHindu/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Two Pointers
 |  |
