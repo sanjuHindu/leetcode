@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sanjuHindu/leetcode/tree/master/0050-powx-n) |
 | [0836-rectangle-overlap](https://github.com/sanjuHindu/leetcode/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanjuHindu/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/sanjuHindu/leetcode/tree/master/3870-count-commas-in-range) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sanjuHindu/leetcode/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanjuHindu/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
