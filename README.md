@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/sanjuHindu/leetcode/tree/master/0835-image-overlap) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjuHindu/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sanjuHindu/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2596-check-knight-tour-configuration](https://github.com/sanjuHindu/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanjuHindu/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanjuHindu/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanjuHindu/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sanjuHindu/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanjuHindu/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2596-check-knight-tour-configuration](https://github.com/sanjuHindu/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sanjuHindu/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/sanjuHindu/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## String Matching
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/sanjuHindu/leetcode/tree/master/0835-image-overlap) |
+| [2596-check-knight-tour-configuration](https://github.com/sanjuHindu/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Geometry
 |  |
 | ------- |
@@ -264,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sanjuHindu/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/sanjuHindu/leetcode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
