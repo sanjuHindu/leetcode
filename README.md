@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sanjuHindu/leetcode/tree/master/0136-single-number) |
 | [0503-next-greater-element-ii](https://github.com/sanjuHindu/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0835-image-overlap](https://github.com/sanjuHindu/leetcode/tree/master/0835-image-overlap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sanjuHindu/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sanjuHindu/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sanjuHindu/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2596-check-knight-tour-configuration](https://github.com/sanjuHindu/leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjuHindu/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sanjuHindu/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sanjuHindu/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanjuHindu/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Union-Find
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/sanjuHindu/leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sanjuHindu/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
