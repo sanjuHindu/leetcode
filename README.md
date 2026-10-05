@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sanjuHindu/leetcode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanjuHindu/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/sanjuHindu/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sanjuHindu/leetcode/tree/master/0460-lfu-cache) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sanjuHindu/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sanjuHindu/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjuHindu/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sanjuHindu/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sanjuHindu/leetcode/tree/master/0050-powx-n) |
 | [0836-rectangle-overlap](https://github.com/sanjuHindu/leetcode/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanjuHindu/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sanjuHindu/leetcode/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/sanjuHindu/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/sanjuHindu/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjuHindu/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
