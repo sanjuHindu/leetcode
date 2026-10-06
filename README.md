@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sanjuHindu/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjuHindu/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sanjuHindu/leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/sanjuHindu/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/sanjuHindu/leetcode/tree/master/0050-powx-n) |
 | [0836-rectangle-overlap](https://github.com/sanjuHindu/leetcode/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanjuHindu/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sanjuHindu/leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/sanjuHindu/leetcode/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/sanjuHindu/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/sanjuHindu/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjuHindu/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sanjuHindu/leetcode/tree/master/0043-multiply-strings) |
 | [2596-check-knight-tour-configuration](https://github.com/sanjuHindu/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Ternary Search
 |  |
