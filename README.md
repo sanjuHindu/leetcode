@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjuHindu/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sanjuHindu/leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/sanjuHindu/leetcode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjuHindu/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanjuHindu/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjuHindu/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sanjuHindu/leetcode/tree/master/0035-search-insert-position) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sanjuHindu/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/sanjuHindu/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanjuHindu/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
