@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sanjuHindu/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/sanjuHindu/leetcode/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjuHindu/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjuHindu/leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/sanjuHindu/leetcode/tree/master/0055-jump-game) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sanjuHindu/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/sanjuHindu/leetcode/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/sanjuHindu/leetcode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sanjuHindu/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sanjuHindu/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/sanjuHindu/leetcode/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/sanjuHindu/leetcode/tree/master/0455-assign-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjuHindu/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
