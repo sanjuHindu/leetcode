@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sanjuHindu/leetcode/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjuHindu/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjuHindu/leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/sanjuHindu/leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/sanjuHindu/leetcode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjuHindu/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanjuHindu/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -317,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjuHindu/leetcode/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/sanjuHindu/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
