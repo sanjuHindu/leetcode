@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanjuHindu/leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/sanjuHindu/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjuHindu/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/sanjuHindu/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sanjuHindu/leetcode/tree/master/0460-lfu-cache) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanjuHindu/leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/sanjuHindu/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/sanjuHindu/leetcode/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sanjuHindu/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
